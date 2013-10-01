@@ -10,6 +10,7 @@ namespace GameCell.Unicorn.Utils
 		void Tick( float delta );
 		
 		void FixedTick( float delta );
+		
 	}
 	
 	public class TickBehaviour:MonoBehaviour
