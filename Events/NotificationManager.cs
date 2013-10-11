@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace GameCell.Unicorn.Events
+namespace DarkCat.Unicorn.Events
 {
 	public class NotificationManager
 	{

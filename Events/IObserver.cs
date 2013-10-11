@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace GameCell.Unicorn.Events
+namespace DarkCat.Unicorn.Events
 {
 	public interface IObserver 
 	{

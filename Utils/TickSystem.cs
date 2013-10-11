@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 
-namespace GameCell.Unicorn.Utils
+namespace DarkCat.Unicorn.Utils
 {
 	public interface ITickable
 	{

@@ -1,6 +1,6 @@
 using System;
 
-namespace GameCell.Unicorn.Events
+namespace DarkCat.Unicorn.Events
 {
 	public class Notification
 	{	
